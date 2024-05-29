@@ -1,5 +1,7 @@
 # Project 1: Data Analysis of Correlation between Singapore Weather and Construction Site Fatalities
 
+![App screenshot](screenshot.jpg)
+
 ### Goals
 
 Heat is a notable challenge for construction workers and may be worsening with global warming.
